@@ -1,0 +1,9 @@
+tk          # built-in on many systems; still include for completeness
+requests
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+fpdf
+Pillow
